@@ -1,10 +1,9 @@
 
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">Rishiraj U. Pathak</span> – A Creative & Enthusiast Computer Engineer 💻🚀</h2>
 
-<p align="center">
-  <img src="![octocat-1745230337396](https://github.com/user-attachments/assets/c94a360d-a1af-4cf7-a46c-da5a1207db7f)
-" width="250"/>
-</p>
+![octocat-1745230337396 (1)](https://github.com/user-attachments/assets/f7ad8d89-5061-4b0a-a2cc-436d8e6bd556)
+
+
 
 ---
 
