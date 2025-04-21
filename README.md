@@ -1,8 +1,9 @@
 
-<h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">[Your Name]</span> – A Creative Computer Engineer 💻🚀</h2>
+<h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">Rishiraj U. Pathak</span> – A Creative & Enthusiast Computer Engineer 💻🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Computer+Engineer;Tech+Explorer+%F0%9F%9A%80;Hardware+and+Software+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let%E2%80%99s+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="![octocat-1745230337396](https://github.com/user-attachments/assets/c94a360d-a1af-4cf7-a46c-da5a1207db7f)
+" width="250"/>
 </p>
 
 ---
