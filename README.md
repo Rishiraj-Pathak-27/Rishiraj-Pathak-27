@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" style="width: 100%;"/>
+[<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" style="width: 100%;"/>](https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif)
 
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">[Your Name]</span> – A Creative Computer Engineer 💻🚀</h2>
 
