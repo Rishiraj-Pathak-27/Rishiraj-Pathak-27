@@ -1,8 +1,4 @@
 
-<p align="center">
-<img align="center" src="api_giphy_header.gif" width="100%" alt="API Giphy logo"/>
-</p>
-
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">[Your Name]</span> – A Creative Computer Engineer 💻🚀</h2>
 
 <p align="center">
