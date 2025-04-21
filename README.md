@@ -1,87 +1,70 @@
-## 👋 Hi there, I'm Rishiraj U. Pathak! ![Wave](<p align="center">
-<img align="center" src="api_giphy_header.gif" width="100%" alt="API Giphy logo"/>
-</p>
 
-## GIPHY API 
-This repository previously hosted GIPHY API documentation, but is no longer active.
+<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" alt="banner" style="width: 100%;"/>
 
-Please see the links below for the latest and greatest GIPHY developer resources:
-
-[GIPHY API Documentation](https://developers.giphy.com/docs/api)\
-[Manage your GIPHY API Keys](https://developers.giphy.com/dashboard/)
-
-### Developer Support
-[Frequently asked questions](https://developers.giphy.com/faq/)
-
-We appreciate your feedback! To contact our support staff with issues or requests related to the GIPHY API, please use the following forms or reach out to developers@giphy.com:
-
-[Submit Technical Issues](https://support.giphy.com/hc/en-us/requests/new?ticket_form_id=360001681251)\
-[Feature Requests and General Feedback](https://support.giphy.com/hc/en-us/requests/new?ticket_form_id=7273557128474)
-
-_We do not monitor GitHub Issues for this repo._
-
-### GIPHY SDKs
-GIPHY provides a number of front-end SDKs that ease the integration process and ensure a high quality search experience for your users.
-
-[GIPHY iOS SDK](https://github.com/Giphy/giphy-ios-sdk)\
-[GIPHY Android SDK](https://github.com/Giphy/giphy-android-sdk)\
-[GIPHY React Native SDK](https://github.com/Giphy/giphy-react-native-sdk)\
-[GIPHY Flutter SDK](https://github.com/Giphy/giphy-flutter-sdk)\
-[GIPHY JS SDK](https://github.com/Giphy/giphy-js)\
-## Learn more about [Engineering at Giphy](https://engineering.giphy.com) )
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-### 🚀 About Me
-I'm a passionate **Computer Engineer** who loves building things that live on the internet.  
-Whether it’s automating tasks, developing websites, tinkering with hardware, or contributing to open-source projects — I’m always exploring and learning!
-
-- 🔧 Programming languages: `C`, `C++`, `JavaScript`, `HTML`, `CSS`, `Verilog`
-- 🧠 Focused on: Full-stack web dev, IoT projects, and embedded systems
-- 🌍 Volunteering at 2025 Kumbh Mela as Community Outreach Coordinator
-- 🎯 Currently working on: A 16-bit MIPS-like processor in Verilog
-- 🌱 Always learning something new...
-
----
-
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-black?style=for-the-badge)
-
----
-
-### 📈 GitHub Stats
+<h2 align="center">Hey there! 👋 I'm <span style="color:#ff6347">[Your Name]</span> – A Creative Computer Engineer 💻🚀</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Computer+Engineer;Tech+Explorer+%F0%9F%9A%80;Hardware+and+Software+Wizard+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let%E2%80%99s+Build+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🧠 About Me
+
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+- 🧑‍💻 I'm a Computer Engineer who loves blending **software + hardware**
+- 🔧 Working with: Verilog, C, C++, JavaScript, HTML/CSS
+- 💡 Project Highlights:
+  - A custom **16-bit MIPS-like Processor** in Verilog
+  - Weather App with real-time APIs & creative design
+  - Salesforce Admin certified, with internship at Sampurv Technologies
+- 🕊️ Volunteering @ Kumbh Mela 2025 (Community Outreach Coordinator)
+
+---
+
+### ⚙️ Tech Toolbox
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,verilog,html,css,js,salesforce,vscode,github,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&border_radius=15" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 Fun Fact
-> "First, solve the problem. Then, write the code." – John Johnson
+### 💬 Quote I Love
 
-<img src="https://github.com/your-username/your-username/blob/main/assets/animated_computer.gif" width="100%"/>
+> _"The best way to predict the future is to invent it." – Alan Kay_
 
 ---
 
+### 🎉 Fun Zone
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
+</p>
+
+---
 
