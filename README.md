@@ -12,13 +12,12 @@
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
 - 🧑‍💻 I'm a Computer Engineer who loves blending **software + hardware**
-- 🔧 Working with: Verilog, C, C++, JavaScript, HTML/CSS
+- 🔧 Working with: Python, C, C++, JavaScript, HTML/CSS
 - 💡 Project Highlights:
-  - A custom **16-bit MIPS-like Processor** in Verilog
-  - Weather App with real-time APIs & creative design
-  - Salesforce Admin certified, with internship at Sampurv Technologies
-- 🕊️ Volunteering @ Kumbh Mela 2025 (Community Outreach Coordinator)
-
+  - Weather App with real-time APIs & creative design.
+  - Salesforce Admin certified, with internship.
+ 
+    
 ---
 
 ### ⚙️ Tech Toolbox
@@ -50,11 +49,7 @@
 
 ---
 
-### 💬 Quote I Love
 
-> _"The best way to predict the future is to invent it." – Alan Kay_
-
----
 
 ### 🎉 Fun Zone
 
