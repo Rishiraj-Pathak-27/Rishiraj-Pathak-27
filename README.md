@@ -1,4 +1,6 @@
-<!-- Title -->
+![logo](https://github.com/user-attachments/assets/98ec82e1-d46b-46fd-b0e4-c2d15b2d86da)
+
+
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347">Rishiraj U. Pathak</span></h1>
 <h3 align="center">Aspiring Software Engineer | Tech Explorer | Learner</h3>
 
