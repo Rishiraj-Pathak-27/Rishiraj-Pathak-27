@@ -42,8 +42,9 @@ My enthusiasm for technology likely drives you to explore new tools, frameworks,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishirajPathak234&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RishirajPathak234&theme=github-dark" width="48%" />
+  
 </p>
 
 ---
