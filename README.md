@@ -68,10 +68,5 @@ rishiraj-u-pathak" target="_blank">
 
 ---
 
-### 🎯 Fun Fact
 
-I enjoy turning ideas into interactive digital experiences and constantly look for new tools and frameworks to play with. Whether it’s solving coding puzzles or optimizing frontend performance — I’m always up for the challenge.
-
----
-
-<p align="center" style="color:gray">Thanks for stopping by! 🚀 Let's build the future with code.</p>
+<p align="center" style="color:gray">🚀 Let's build the future with code.</p>
