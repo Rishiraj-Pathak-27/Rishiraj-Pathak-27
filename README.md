@@ -54,13 +54,14 @@ My enthusiasm for technology likely drives you to explore new tools, frameworks,
 Let’s connect and build something amazing together!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/
+rishiraj-u-pathak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rishirajraj124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/RishirajP06?t=z-5Fw9foso9Le3r4THAPlQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
