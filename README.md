@@ -25,7 +25,7 @@ My enthusiasm for technology likely drives you to explore new tools, frameworks,
 - **Frontend**: HTML5, CSS3, JavaScript (ES6) 
 - **Tools**: Git, GitHub, VS Code  
 - **CRM**: Salesforce (Admin Certified)  
-- **Currently Learning**: JavaScript, Java  
+  
 
 ---
 
