@@ -44,8 +44,7 @@ My enthusiasm for technology likely drives you to explore new tools, frameworks,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RishirajPathak234&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RishirajPathak234&theme=github-dark" width="48%" />
-  ![Profile views](https://komarev.com/ghpvc/?username=Rishiraj-Pathak-27&style=flat-square&color=blue)
-
+  
   
 </p>
 
