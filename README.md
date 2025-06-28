@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347">Rishiraj U. Pathak</span></h1>
-<h3 align="center">Aspiring Software Engineer | Tech Explorer | Learner</h3>
+<h3 align="center">Aspiring Software Engineer | Learner</h3>
 
 ---
 
@@ -43,7 +43,8 @@ My enthusiasm for technology likely drives you to explore new tools, frameworks,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Pathak-27&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishiraj-Pathak-27&theme=github-dark" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Rishiraj-Pathak-27&theme=iceberg&hide_border=false&date_format=j%20M%5B%20Y%5D" width="100%" />
+
   
   
 </p>
