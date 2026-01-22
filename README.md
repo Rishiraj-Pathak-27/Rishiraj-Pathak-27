@@ -1,6 +1,9 @@
 ![logo](https://github.com/user-attachments/assets/98ec82e1-d46b-46fd-b0e4-c2d15b2d86da)
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347">Rishiraj U. Pathak</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishiraj+U.+Pathak+👋;Aspiring+Software+Engineer;Frontend+%26+Backend+Web+Developer;Passionate+Learner+%26+Problem+Solver" />
+</p>
+
 <h3 align="center">Aspiring Software Engineer | Learner</h3>
 
 <p align="center">
@@ -29,6 +32,10 @@ I enjoy exploring new tools, frameworks, and hardware solutions and integrating 
 - **Tools**: Git, GitHub, VS Code  
 - **CRM**: Salesforce (Admin Certified)  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
 ---
 
 ## 🌟 Highlights & Experience
@@ -46,6 +53,10 @@ I enjoy exploring new tools, frameworks, and hardware solutions and integrating 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Pathak-27&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Rishiraj-Pathak-27&theme=highcontrast&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Pathak-27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
