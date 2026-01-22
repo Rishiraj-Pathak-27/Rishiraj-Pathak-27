@@ -1,4 +1,7 @@
 name: Generate Snake
+permissions:
+  contents: write
+
 
 on:
   schedule:
