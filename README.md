@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/98ec82e1-d46b-46fd-b0e4-c2d15b2d86da)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishiraj+U.+Pathak+👋;Aspiring+Software+Engineer;Frontend+%26+Backend+Web+Developer;Passionate+Learner+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=30&duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishiraj+U.+Pathak+👋;Aspiring+Software+Engineer;Passionate+Learner+%26+Problem+Solver" />
 </p>
 
 <h3 align="center">Aspiring Software Engineer | Learner</h3>
@@ -27,13 +27,13 @@ I enjoy exploring new tools, frameworks, and hardware solutions and integrating 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, C++, JavaScript, Python  
+- **Languages**: C, C++, Java, JavaScript, Python  
 - **Frontend**: HTML5, CSS3, JavaScript (ES6)  
 - **Tools**: Git, GitHub, VS Code  
 - **CRM**: Salesforce (Admin Certified)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
 </p>
 
 ---
