@@ -1,10 +1,8 @@
 ![logo](https://github.com/user-attachments/assets/98ec82e1-d46b-46fd-b0e4-c2d15b2d86da)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=30&duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishiraj+U.+Pathak+👋;Aspiring+Software+Engineer;Passionate+Learner+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&color=0E75B6&duration=3000&pause=600&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rishiraj+U.+Pathak+👋;Aspiring+Software+Engineer;Passionate+Learner+%26+Problem+Solver" />
 </p>
-
-<h3 align="center">Aspiring Software Engineer | Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishiraj-Pathak-27&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
