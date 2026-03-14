@@ -31,7 +31,7 @@ I enjoy exploring new tools, frameworks, and hardware solutions and integrating 
 - **CRM**: Salesforce (Admin Certified)  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,aigit,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,ai,git,github,vscode" />
 </p>
 
 ---
