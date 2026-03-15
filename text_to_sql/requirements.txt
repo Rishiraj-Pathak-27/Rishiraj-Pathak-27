@@ -1,8 +1,0 @@
-# Core runtime — no mandatory third-party dependencies (uses stdlib only)
-# The packages below are optional / for development
-
-# LLM-based translation (optional)
-openai>=1.0.0
-
-# Testing
-pytest>=7.0.0
