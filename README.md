@@ -53,22 +53,9 @@ Through projects and experimentation, I aim to build strong practical knowledge 
 ![Languages](https://skillicons.dev/icons?i=c,java,python,mysql,javascript,html,css,js)
 
 ### Development Tools Used
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,antigravity,atlassian,mysql,)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,ai,androidstudio,mysql,vite)
 
 ---
-
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|------|-------------|
-| 🌦 Weather Application | A dynamic weather application that fetches real-time weather information using external APIs and presents it through a user-friendly interface. |
-| 🎓 College Alumni Portal | A web platform designed to connect alumni and students, featuring modern UI components and interactive design. |
-| 🤖 AI Triage Assistant | An intelligent healthcare triage system that helps categorize medical queries using AI-powered logic. |
-| 📊 SQL Learning Repository | A structured repository designed to help beginners learn SQL through examples, explanations, and practical queries. |
-
----
-
 
 # 📊 Most Used Languages
 
