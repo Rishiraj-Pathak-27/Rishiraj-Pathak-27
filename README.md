@@ -128,10 +128,9 @@ This experience helped me understand how technology solutions support real busin
 
 # 🏆 GitHub Achievements
 
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-Pathak-27&theme=algolia&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-Pathak-27&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
