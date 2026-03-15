@@ -41,7 +41,6 @@ Currently, I am focusing on strengthening my knowledge in:
 - **Data Structures and Algorithms**
 - **Full Stack Web Development**
 - **Artificial Intelligence Applications**
-- **System Design Concepts**
 - **Database Design and Query Optimization**
 
 Through projects and experimentation, I aim to build strong practical knowledge alongside theoretical understanding.
@@ -51,37 +50,13 @@ Through projects and experimentation, I aim to build strong practical knowledge 
 # 🛠 Tech Stack
 
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,javascript)
+![Languages](https://skillicons.dev/icons?i=c,java,python,mysql,javascript,html,css,js)
 
-### Web Development
-![Web](https://skillicons.dev/icons?i=html,css,js,nextjs)
-
-### Databases
-![Database](https://skillicons.dev/icons?i=mysql)
-
-### Development Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
-### CRM Platform
-![Salesforce](https://skillicons.dev/icons?i=salesforce)
+### Development Tools Used
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,antigravity,atlassian,mysql,)
 
 ---
 
-# 💼 Professional Experience
-
-### Salesforce Administrator Intern  
-**Sampurv Technologies**
-
-During my internship, I gained hands-on experience working with Salesforce CRM, where I learned how to:
-
-- Manage and configure **Salesforce environments**
-- Work with **data models and automation tools**
-- Customize **CRM workflows**
-- Understand how businesses use CRM systems to manage operations efficiently
-
-This experience helped me understand how technology solutions support real business processes.
-
----
 
 # 🚀 Featured Projects
 
@@ -94,17 +69,6 @@ This experience helped me understand how technology solutions support real busin
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Pathak-27&show_icons=true&theme=tokyonight" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=Rishiraj-Pathak-27&theme=highcontrast&hide_border=true" width="45%" />
-
-</p>
-
----
 
 # 📊 Most Used Languages
 
@@ -126,15 +90,6 @@ This experience helped me understand how technology solutions support real busin
 
 ---
 
-# 🏆 GitHub Achievements
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishiraj-Pathak-27&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -146,34 +101,7 @@ This experience helped me understand how technology solutions support real busin
 
 </p>
 
----
-
-# 💡 Developer Philosophy
-
-I strongly believe that the best way to learn technology is by **building real projects, experimenting with ideas, and constantly challenging yourself with new problems**.
-
-Technology is not just about writing code — it is about **creating solutions that make people's lives easier and more efficient**.
-
----
-
-# ⚡ Fun Facts About Me
-
-- ☕ I enjoy debugging problems with a cup of coffee  
-- 💡 I love transforming ideas into real working applications  
-- 🧠 Learning something new in technology excites me every day  
-- 🚀 I believe consistent practice is the key to mastering programming  
-
----
-
-# 💬 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
+ ---
 
 # 📫 Connect With Me
 
