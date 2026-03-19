@@ -27,7 +27,60 @@ I'm **Rishiraj U. Pathak**, a **Computer Engineering student** passionate about 
 - ⚙️ Interested in **Hardware–Software Integration**
 - 🚀 Focused on building **real-world scalable projects**
 
-I believe in writing **clean, efficient code** and continuously improving through **hands-on learning and collaboration**.
+---
+
+## 🌍 Open Source Contributions
+
+I actively contribute to open-source projects, focusing on improving accessibility, documentation quality, and real-world usability of developer resources.
+
+### 🔹 Public APIs Contribution
+
+- Contributed to one of the most widely used API collection repositories:  
+  👉 https://github.com/public-apis/public-apis  
+
+- Worked on enhancing the **API directory structure** and improving discoverability for developers
+
+- Added and refined entries for:
+  - **SerpAPI** (real-time search data APIs)
+  - **Open-Meteo** (free weather APIs)
+
+- Ensured strict adherence to contribution guidelines:
+  - ✔ Proper formatting and table structure  
+  - ✔ Alphabetical ordering  
+  - ✔ Standardized authentication fields  
+  - ✔ Clean and concise API descriptions  
+  - ✔ Repository-wide consistency  
+
+- Actively participated in:
+  - 🔍 Reviewing repository standards  
+  - 🔄 Rebasing and maintaining clean commit history  
+  - 💬 Communicating with maintainers  
+  - ⚡ Iterating based on automated and manual feedback  
+
+---
+
+### 🔗 Relevant Resources & Ecosystem
+
+- 📚 Public APIs Documentation  
+  👉 https://github.com/public-apis/public-apis#readme  
+
+- 🌐 SerpAPI Official Website  
+  👉 https://serpapi.com  
+
+- 🌦 Open-Meteo API Documentation  
+  👉 https://open-meteo.com  
+
+- 🧩 GitHub Open Source Guide  
+  👉 https://opensource.guide  
+
+---
+
+### 🚀 Open Source Goals
+
+- Contribute to **high-impact repositories**
+- Improve **developer experience and documentation**
+- Build **tools and APIs for real-world use cases**
+- Collaborate with **global developer communities**
 
 ---
 
@@ -36,7 +89,7 @@ I believe in writing **clean, efficient code** and continuously improving throug
 - 🌐 Develop **modern web applications**
 - 🧠 Solve **Data Structures & Algorithm problems**
 - 🤖 Work on **AI-based systems**
-- 🎯 Build **practical, real-world projects**
+- 🎯 Build **real-world impactful projects**
 - 🎨 Focus on **UI/UX and user experience**
 
 ---
