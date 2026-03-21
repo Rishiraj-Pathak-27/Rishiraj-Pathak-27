@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=700&color=0E75B6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;AI+%26+System+Design+Enthusiast;Turning+Ideas+Into+Real+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=700&color=0E75B6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Computer+Engineer;AI+%26+Machine+Learning+Explorer;Building+Real+World+Projects+through+Research;Turning+Ideas+Into+Scalable+Solutions"/>
 </p>
 
 <p align="center">
