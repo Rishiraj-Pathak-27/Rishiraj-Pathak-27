@@ -96,10 +96,10 @@ I actively contribute to open-source projects, focusing on improving accessibili
 
 ## 📚 Currently Learning
 
-- 📊 Advanced **Data Structures & Algorithms**
+- 📊 **Data Structures & Algorithms**
 - 🌐 **Full Stack Development (Next.js, APIs)**
-- 🤖 **Machine Learning & AI Systems**
-- 🗄 **Database Optimization & Design**
+- 🤖 **Machine Learning, Deep learning & AI Systems**
+- 🗄 **Database Design & More About SQL**
 
 ---
 
