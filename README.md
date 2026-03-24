@@ -23,7 +23,7 @@
 I'm **Rishiraj U. Pathak**, a **Computer Engineering student** passionate about designing and building impactful technology solutions.
 
 - 💻 Strong foundation in **Software Development & Problem Solving**
-- 🧠 Exploring **Artificial Intelligence & System Design**
+- 🧠 Exploring **Artificial Intelligence & Machine Learning**
 - ⚙️ Interested in **Hardware–Software Integration**
 - 🚀 Focused on building **real-world scalable projects**
 
