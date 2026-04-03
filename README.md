@@ -31,7 +31,39 @@ I'm **Rishiraj U. Pathak**, a **Computer Engineering student** passionate about 
 
 ## 🌍 Open Source Contributions
 
-I actively contribute to open-source projects, focusing on improving accessibility, documentation quality, and real-world usability of developer resources.
+I actively contribute to open-source projects, focusing on improving accessibility, code quality, internationalization, and real-world usability of developer resources.
+
+---
+
+### ✅ OpenMRS ESM Patient Management — Merged PR
+
+**Organization:** OpenMRS — A global open-source electronic medical record platform used in healthcare systems worldwide.
+
+- 🏥 **Repository:** https://github.com/openmrs/openmrs-esm-patient-management
+- 🌐 **OpenMRS Official Website:** https://openmrs.org
+- 📋 **JIRA Issue Tracker:** https://issues.openmrs.org
+- 🐛 **JIRA Ticket:** https://issues.openmrs.org/browse/O3-5514
+- 🔀 **Merged Pull Request:** https://github.com/openmrs/openmrs-esm-patient-management/pull/2367
+
+#### 📌 Contribution Details
+
+- Identified a **hardcoded string** in the appointments module that was blocking proper internationalization (i18n)
+- Replaced the hardcoded `iconDescription="Add Appointments"` with a proper translation function:
+  - ✔ **Before:** `iconDescription="Add Appointments"`
+  - ✔ **After:** `iconDescription={t('addAppointments', 'Add Appointments')}`
+- Added the `addAppointments` translation key to `en.json` so **Transifex** can pick it up and distribute translations to all supported languages
+- Followed strict contribution guidelines:
+  - ✔ Conventional commit format
+  - ✔ PR description template with all required sections
+  - ✔ Only modified relevant files
+  - ✔ Communicated actively with maintainers
+  - ✔ Responded to review feedback quickly and professionally
+- PR was **reviewed and approved** by OpenMRS core maintainers and successfully **merged into main** 🎉
+
+#### 🔗 Tech Used
+- React, TypeScript, i18n (react-i18next), Transifex
+
+---
 
 ### 🔹 Public APIs Contribution
 
