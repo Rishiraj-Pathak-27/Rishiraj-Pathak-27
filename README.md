@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=700&color=0E75B6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Computer+Engineer;AI+%26+Machine+Learning+Explorer;Building+Real+World+Projects+through+Research;Turning+Ideas+Into+Scalable+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=700&color=0E75B6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Computer+Engineer;AI+%26+Machine+Learning+Explorer;Building+Real+World+Projects;Turning+Ideas+Into+Scalable+Solutions"/>
 </p>
 
 <p align="center">
@@ -31,150 +31,78 @@ I'm **Rishiraj U. Pathak**, a **Computer Engineering student** passionate about 
 
 ## 🌍 Open Source Contributions
 
-I actively contribute to open-source projects, focusing on improving accessibility, code quality, internationalization, and real-world usability of developer resources.
-
----
+I actively contribute to open-source projects, improving accessibility, code quality, internationalization, and usability of developer resources.
 
 ### ✅ OpenMRS ESM Patient Management — Merged PR
 
-**Organization:** OpenMRS — A global open-source electronic medical record platform used in healthcare systems worldwide.
+**Organization:** OpenMRS — A global open-source electronic medical record platform.
 
 - 🏥 **Repository:** https://github.com/openmrs/openmrs-esm-patient-management
-- 🌐 **OpenMRS Official Website:** https://openmrs.org
-- 📋 **JIRA Issue Tracker:** https://issues.openmrs.org
-- 🐛 **JIRA Ticket:** https://issues.openmrs.org/browse/O3-5514
-- 🔀 **Merged Pull Request:** https://github.com/openmrs/openmrs-esm-patient-management/pull/2367
+- 🌐 **Website:** https://openmrs.org
+- 🔀 **Merged PR:** https://github.com/openmrs/openmrs-esm-patient-management/pull/2367
 
-#### 📌 Contribution Details
-
-- Identified a **hardcoded string** in the appointments module that was blocking proper internationalization (i18n)
-- Replaced the hardcoded `iconDescription="Add Appointments"` with a proper translation function:
-  - ✔ **Before:** `iconDescription="Add Appointments"`
-  - ✔ **After:** `iconDescription={t('addAppointments', 'Add Appointments')}`
-- Added the `addAppointments` translation key to `en.json` so **Transifex** can pick it up and distribute translations to all supported languages
-- Followed strict contribution guidelines:
-  - ✔ Conventional commit format
-  - ✔ PR description template with all required sections
-  - ✔ Only modified relevant files
-  - ✔ Communicated actively with maintainers
-  - ✔ Responded to review feedback quickly and professionally
-- PR was **reviewed and approved** by OpenMRS core maintainers and successfully **merged into main** 🎉
-
-#### 🔗 Tech Used
-- React, TypeScript, i18n (react-i18next), Transifex
+**Contribution:** Fixed hardcoded strings for i18n and added proper translations.
 
 ---
 
 ### 🔹 Public APIs Contribution
 
-- Contributed to one of the most widely used API collection repositories:  
-  👉 https://github.com/public-apis/public-apis  
-
-- Worked on enhancing the **API directory structure** and improving discoverability for developers
-
-- Added and refined entries for:
-  - **SerpAPI** (real-time search data APIs)
+- Contributed to: https://github.com/public-apis/public-apis  
+- Improved **API directory structure** and discoverability.
+- Added/refined entries for:
+  - **SerpAPI** (real-time search APIs)
   - **Open-Meteo** (free weather APIs)
-
-- Ensured strict adherence to contribution guidelines:
-  - ✔ Proper formatting and table structure  
-  - ✔ Alphabetical ordering  
-  - ✔ Standardized authentication fields  
-  - ✔ Clean and concise API descriptions  
-  - ✔ Repository-wide consistency  
-
-- Actively participated in:
-  - 🔍 Reviewing repository standards  
-  - 🔄 Rebasing and maintaining clean commit history  
-  - 💬 Communicating with maintainers  
-  - ⚡ Iterating based on automated and manual feedback  
-
----
-
-### 🔗 Relevant Resources & Ecosystem
-
-- 📚 Public APIs Documentation  
-  👉 https://github.com/public-apis/public-apis#readme  
-
-- 🌐 SerpAPI Official Website  
-  👉 https://serpapi.com  
-
-- 🌦 Open-Meteo API Documentation  
-  👉 https://open-meteo.com  
-
-- 🧩 GitHub Open Source Guide  
-  👉 https://opensource.guide  
-
----
-
-### 🚀 Open Source Goals
-
-- Contribute to **high-impact repositories**
-- Improve **developer experience and documentation**
-- Build **tools and APIs for real-world use cases**
-- Collaborate with **global developer communities**
-
----
-
-## 🚀 What I Do
-
-- 🌐 Develop **modern web applications**
-- 🧠 Solve **Data Structures & Algorithm problems**
-- 🤖 Work on **AI-based systems**
-- 🎯 Build **real-world impactful projects**
-- 🎨 Focus on **UI/UX and user experience**
-
----
-
-## 📚 Currently Learning
-
-- 📊 **Data Structures & Algorithms**
-- 🌐 **Full Stack Development (Next.js, APIs)**
-- 🤖 **Machine Learning, Deep learning & AI Systems**
-- 🗄 **Database Design & More About SQL**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mysql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql,vite,nextjs" />
-</p>
+| Category | Skills |
+|---|---|
+| 💻 Languages | C, C++, Java, Python, JavaScript, HTML, CSS |
+| 🌐 Frontend | Next.js, Vite |
+| 🗄 Databases | MySQL |
+| ⚙️ Tools | Git, GitHub, VS Code, Android Studio |
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+| Domain | Topics |
+|---|---|
+| DSA | Arrays, Trees, Graphs, DP |
+| Full Stack | Next.js, APIs, Authentication |
+| AI/ML | Machine Learning, Deep Learning |
+| Databases | SQL Optimization & Design |
+
+---
+
+## 🚀 What I Do
+
+| Focus Area | Activity |
+|---|---|
+| 🌐 Web Development | Modern web applications |
+| 🧠 Problem Solving | DSA & Competitive Programming |
+| 🤖 AI & ML | Intelligent systems & models |
+| 🎨 UI/UX | Designing smooth user experiences |
+| 🎯 Projects | Building real-world impactful solutions |
+
+---
+
+## 🏆 GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Pathak-27&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Pathak-27&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🔥 Streak Stats
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiraj-Pathak-27&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiraj-Pathak-27&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
 <picture>
@@ -185,26 +113,33 @@ I actively contribute to open-source projects, focusing on improving accessibili
 
 ---
 
+## ⚡ Quick Highlights
+
+| 🌟 Highlights | Details |
+|---|---|
+| Open Source | High-impact contributions |
+| Full Stack | Building scalable apps |
+| AI & ML | Exploring intelligent systems |
+| Problem Solving | Strengthening DSA skills |
+| Active Learner | Continuous self-improvement |
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/rishiraj-u-pathak">
 <img src="https://img.shields.io/badge/LinkedIn-Rishiraj%20Pathak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:rishirajraj124@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://x.com/RishirajP06">
 <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Rishiraj-Pathak-27">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
