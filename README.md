@@ -59,10 +59,10 @@ I actively contribute to open-source projects, improving accessibility, code qua
 
 | Category | Skills |
 |---|---|
-| 💻 Languages | C, C++, Java, Python, JavaScript, HTML, CSS |
-| 🌐 Frontend | Next.js, Vite |
+| 💻 Languages | Java, C, C++, Python, JavaScript |
+| 🌐 Frontend | React.js, HTML, CSS |
 | 🗄 Databases | MySQL |
-| ⚙️ Tools | Git, GitHub, VS Code, Android Studio |
+| ⚙️ Tools | Git, GitHub, VS Code, Android Studio, |
 
 ---
 
@@ -70,8 +70,8 @@ I actively contribute to open-source projects, improving accessibility, code qua
 
 | Domain | Topics |
 |---|---|
-| DSA | Arrays, Trees, Graphs, DP |
-| Full Stack | Next.js, APIs, Authentication |
+| DSA | Arrays, Strings, Recursion |
+| Full Stack | React.js, APIs, Authentication |
 | AI/ML | Machine Learning, Deep Learning |
 | Databases | SQL Optimization & Design |
 
