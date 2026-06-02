@@ -79,81 +79,11 @@ I actively contribute to open-source projects focusing on accessibility, code qu
 
 # 🛠 Tech Stack
 
-<table>
+<p align="center">
 
-<tr>
-<td align="center" width="33%">
-
-### 💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" width="22"/> <b>Java</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=c" width="22"/> <b>C</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=cpp" width="22"/> <b>C++</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=python" width="22"/> <b>Python</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=javascript" width="22"/> <b>JavaScript</b>
+<img src="https://skillicons.dev/icons?i=java,python,tensorflow,javascript,html,css,mysql,git,github,vscode&perline=10"/>
 
 </p>
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react" width="22"/> <b>React.js</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=html" width="22"/> <b>HTML</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=css" width="22"/> <b>CSS</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="22"/> <b>Next.js</b>
-
-</p>
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" width="22"/> <b>Git</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=github" width="22"/> <b>GitHub</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="22"/> <b>VS Code</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=androidstudio" width="22"/> <b>Android Studio</b>
-
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="3" align="center">
-
-### 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="22"/> <b>MySQL</b>
-
-</p>
-
-</td>
-</tr>
-
-</table>
 
 ---
 
@@ -176,25 +106,13 @@ Arrays • Strings • Recursion
 
 <td align="center" width="33%">
 
-### 🌐 Full Stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" width="120"/>
-
-<br><br>
-
-APIs • Authentication • Backend
-
-</td>
-
-<td align="center" width="33%">
-
 ### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" width="90"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,ai" width="90"/>
 
 <br><br>
 
-Machine Learning • Deep Learning
+Machine Learning • Deep Learning 
 
 </td>
 
@@ -215,12 +133,73 @@ Machine Learning • Deep Learning
 
 ---
 
+# 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 HalluRAG
+
+**LLM Hallucination Detection & Correction Using RAG**
+
+* Retrieval-Augmented Generation (RAG)
+* Vector Search & Semantic Retrieval
+* NLP & Deep Learning
+* Hallucination Detection & Response Correction
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+
+**Java Full Stack Application**
+
+* JDBC Integration
+* Authentication & Authorization
+* Patient, Doctor & Appointment Management
+* Database-Driven Healthcare System
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Dark Matter Classification & Detection
+
+**Machine Learning-Based Research Project**
+
+* Data Preprocessing & Analysis
+* Classification Models
+* Predictive Modeling
+* Scientific Data Interpretation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 R.A.K.T
+
+**Resource Allocation & Knowledge Tracking System**
+
+* Smart Resource Management
+* User Authentication & Role-Based Access
+* Analytics & Performance Tracking
+* Real-Time Monitoring Dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🏆 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishiraj-Pathak-27&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Pathak-27&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishiraj-Pathak-27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishiraj-Pathak-27&theme=tokyonight" />
 </p>
 
 ---
@@ -250,24 +229,6 @@ Machine Learning • Deep Learning
   <img src="https://raw.githubusercontent.com/Rishiraj-Pathak-27/Rishiraj-Pathak-27/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
-
----
-
-# ⚡ Quick Highlights
-
-<table>
-<tr>
-<td align="center">🌍 Open Source Contributor</td>
-<td align="center">🚀 Building Scalable Projects</td>
-<td align="center">🧠 AI & ML Enthusiast</td>
-</tr>
-
-<tr>
-<td align="center">💻 Computer Engineer</td>
-<td align="center">🔥 Active Learner</td>
-<td align="center">🎯 Problem Solver</td>
-</tr>
-</table>
 
 ---
 
