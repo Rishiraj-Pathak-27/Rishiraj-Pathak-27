@@ -181,7 +181,7 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1a1a2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-16213e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI fundamentals%20-Machine Learning%20-Deep Learning-16213e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI fundamentals%20Machine%20Learning%20&%20Deep%20Learning-16213e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG%20%2F%20NLP-0a3d62?style=for-the-badge"/>
   
   <img src="https://img.shields.io/badge/CI%20%2F%20CD-e94560?style=for-the-badge&logo=githubactions&logoColor=white"/>
