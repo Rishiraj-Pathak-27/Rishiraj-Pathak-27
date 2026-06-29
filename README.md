@@ -153,7 +153,6 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
   <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" title="SQL / MySQL"/>
@@ -166,13 +165,10 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 ### 🧰 Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
 </p>
 
