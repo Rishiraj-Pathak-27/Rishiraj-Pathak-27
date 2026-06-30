@@ -68,6 +68,13 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <td style="border:3px solid #0f3460; color:#ffffff; padding:10px;">Nagpur, Maharashtra</td>
 <td align="center" style="border:3px solid #0f3460; color:#ffffff; padding:10px;">9.86</td>
 </tr>
+<tr style="background-color:#16213e;">
+<td style="border:3px solid #0f3460; color:#ffffff; padding:10px;"><b>G.H Raisoni Institute of Engineering & Technology</b></td>
+<td style="border:3px solid #0f3460; color:#ffffff; padding:10px;">Diploma in Computer Science</td>
+<td align="center" style="border:3px solid #0f3460; color:#ffffff; padding:10px;">2021 – 2024</td>
+<td style="border:3px solid #0f3460; color:#ffffff; padding:10px;">Nagpur, Maharashtra</td>
+<td align="center" style="border:3px solid #0f3460; color:#ffffff; padding:10px;">87.89%</td>
+</tr>
 </table>
 
 <br/>
@@ -89,14 +96,14 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Software Engineer Trainee</td>
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Netfotech Solutions</td>
 <td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">May 2025 - July 2025</td>
-<td style="border:3px solid #533483; color:#ffffff; padding:10px;"></td>
+<td style="border:3px solid #533483; color:#ffffff; padding:10px;">• Web Development<br>• API Integration<br> • Responsive UI<br> • Performance Optimization.</td>
 </tr>
 <tr style="background-color:#16213e;">
 <td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">02</td>
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Student Ambassador</td>
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Google</td>
 <td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">May 2026 - Present</td>
-<td style="border:3px solid #533483; color:#ffffff; padding:10px;"></td>
+<td style="border:3px solid #533483; color:#ffffff; padding:10px;">• Community Building<br> • Event Management<br> • Technical Outreach<br> • Leadership</td>
 </tr>
 </table>
 
@@ -117,7 +124,7 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>HalluRAG</b></td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;">LLM hallucination detection & correction using Retrieval-Augmented Generation and vector search</td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Python</code> <code>RAG</code> <code>NLP</code> <code>Deep Learning</code></td>
-<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="#">🔗 Repo</a></td>
+<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="https://github.com/Rishiraj-Pathak-27/LLM-Hallucination-Detection-Correction-Using-RAG">🔗 Repo</a></td>
 </tr>
 <tr style="background-color:#0f3460;">
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>Hospital Management System</b></td>
@@ -134,12 +141,11 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <tr style="background-color:#0f3460;">
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>R.A.K.T</b></td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;">Resource allocation & knowledge tracking system with role-based access control and real-time analytics dashboard</td>
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Web</code> <code>Auth</code> <code>Analytics</code></td>
-<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="#">🔗 Repo</a></td>
+<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Web</code> <code>Auth</code> <code>Analytics</code> <code>Machine Learning</code></td>
+<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="https://github.com/Rishiraj-Pathak-27/R.A.K.T">🔗 Repo</a><br><a href="https://gdg-build-exe.vercel.app/">🔗 Live</a></td>
 </tr>
 </table>
 
-> 📌 *Replace `#` links above with your actual repository URLs*
 
 <br/>
 
