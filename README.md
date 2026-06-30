@@ -164,7 +164,7 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
   <img src="https://skillicons.dev/icons?i=mysql" height="40" title="SQL / MySQL"/>
 </p>
 
-`Java` `Python` `JavaScript` `TypeScript` `HTML` `CSS` `SQL`
+`Java` `Python` `JavaScript` `HTML` `CSS` `SQL`
 
 <br/>
 
@@ -178,7 +178,7 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
 </p>
 
-`Spring Boot` `React` `Node.js` `TensorFlow` `Git` `GitHub` `Docker` `VS Code`
+`React` `TensorFlow` `Git` `GitHub` `VS Code`
 
 <br/>
 
