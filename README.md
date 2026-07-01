@@ -127,18 +127,6 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="https://github.com/Rishiraj-Pathak-27/LLM-Hallucination-Detection-Correction-Using-RAG">🔗 Repo</a></td>
 </tr>
 <tr style="background-color:#0f3460;">
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>Hospital Management System</b></td>
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;">Full-stack Java app with patient, doctor & appointment management, JWT auth, and JDBC database integration</td>
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Java</code> <code>Spring Boot</code> <code>JDBC</code> <code>MySQL</code></td>
-<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="#">🔗 Repo</a></td>
-</tr>
-<tr style="background-color:#0a3d62;">
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>Dark Matter Classification</b></td>
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;">ML-based research project for scientific data classification and predictive modeling</td>
-<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Python</code> <code>TensorFlow</code> <code>Scikit-learn</code></td>
-<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="#">🔗 Repo</a></td>
-</tr>
-<tr style="background-color:#0f3460;">
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>R.A.K.T</b></td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;">Resource allocation & knowledge tracking system with role-based access control and real-time analytics dashboard</td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Web</code> <code>Auth</code> <code>Analytics</code> <code>Machine Learning</code></td>
