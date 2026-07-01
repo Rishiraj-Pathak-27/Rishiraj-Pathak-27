@@ -120,12 +120,21 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <th style="border:3px solid #e94560; color:#ffffff; padding:10px;">🛠️ Stack</th>
 <th style="border:3px solid #e94560; color:#ffffff; padding:10px;">🌟</th>
 </tr>
+
 <tr style="background-color:#0a3d62;">
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>HalluRAG</b></td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;">LLM hallucination detection & correction using Retrieval-Augmented Generation and vector search</td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Python</code> <code>RAG</code> <code>NLP</code> <code>Deep Learning</code></td>
 <td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="https://github.com/Rishiraj-Pathak-27/LLM-Hallucination-Detection-Correction-Using-RAG">🔗 Repo</a></td>
 </tr>
+
+<tr style="background-color:#0a3d62;">
+<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>Graduate Admission Prediction</b></td>
+<td style="border:3px solid #e94560; color:#ffffff; padding:10px;">This project uses a Deep Learning model to predict the chances of graduate admission based on academic details like GRE, TOEFL, CGPA, SOP, LOR, and Research Experience.</td>
+<td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><code>Python</code> <code>Kaggle</code> <code><b>Deep Learning</b></code> <code><b>Tensor Flow Keras</b></code></td>
+<td align="center" style="border:3px solid #e94560; color:#ffffff; padding:10px;"><a href="https://github.com/Rishiraj-Pathak-27/Gradutate-Admission-Prediction-DL.git">🔗 Repo</a></td>
+</tr>
+
 <tr style="background-color:#0f3460;">
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;"><b>R.A.K.T</b></td>
 <td style="border:3px solid #e94560; color:#ffffff; padding:10px;">Resource allocation & knowledge tracking system with role-based access control and real-time analytics dashboard</td>
