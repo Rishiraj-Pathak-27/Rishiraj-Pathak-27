@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213e,80:0f3460,100:e94560&height=230&section=header&text=Rishiraj%20U.%20Pathak&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=43&desc=Computer%20Engineering%20Student%20%7C%20Open%20Source%20Contributor%20%7C%20Aspiring%20Software%20Engineer&descAlignY=63&descSize=17"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,40:16213e,80:0f3460,100:e94560&height=230&section=header&text=Rishiraj%20U.%20Pathak&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Open%20Source%20Contributor%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=17"/>
 <br/>
 
 <p align="center">
@@ -289,10 +288,9 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 
 <br/>
 
-<p align="center">
-  <b>✨ &nbsp; "Code. Build. Learn. Repeat." &nbsp; ✨</b>
-</p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,40:0f3460,80:16213e,100:1a1a2e&height=180&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:e94560,20:0f3460,60:16213e,100:1a1a2e&height=180&section=footer&animation=twinkling"/>-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:e94560,20:0f3460,60:16213e,100:1a1a2e&height=180&section=footer&animation=twinkling&text=%E2%9C%A8%20Code.%20Build.%20Learn.%20Repeat.%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=55"/>
