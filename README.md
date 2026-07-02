@@ -241,9 +241,9 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <th style="border:3px solid #533483; color:#ffffff; padding:10px;">🏛️ Issuer / Platform</th>
 </tr>
 <tr style="background-color:#16213e;">
-<td style="border:3px solid #533483; color:#ffffff; padding:10px;"><i>(Add your certifications, hackathon wins, awards here)</i></td>
-<td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;"></td>
-<td style="border:3px solid #533483; color:#ffffff; padding:10px;"></td>
+<td style="border:3px solid #533483; color:#ffffff; padding:10px;"><i>Data Analytics Job Simulation</i></td>
+<td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">2025</td>
+<td style="border:3px solid #533483; color:#ffffff; padding:10px;">Deloitte</td>
 </tr>
 </table>
 
