@@ -239,11 +239,13 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <th style="border:3px solid #533483; color:#ffffff; padding:10px;">🏅 Achievement / Certification</th>
 <th style="border:3px solid #533483; color:#ffffff; padding:10px;">📅 Year</th>
 <th style="border:3px solid #533483; color:#ffffff; padding:10px;">🏛️ Issuer / Platform</th>
+<th style="border:3px solid #533483; color:#ffffff; padding:10px;">Certificate</th>
 </tr>
 <tr style="background-color:#16213e;">
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;"><i>Data Analytics Job Simulation</i></td>
 <td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">2025</td>
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Deloitte</td>
+  <td style="border:3px solid #533483; color:#ffffff; padding:10px;"><a target="_blank" href="https://drive.google.com/file/d/1Dv7HtH4ubh5II6K2N_xT3xLGlNPmGAgy/view?usp=drive_link">View</a></td>
 </tr>
 </table>
 
