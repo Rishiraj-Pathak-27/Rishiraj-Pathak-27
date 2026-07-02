@@ -23,10 +23,6 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate about building impactful, scalable software — from open-source CLI tooling to AI-powered systems. I learn best by building and contributing to real-world projects.
 
 <br/>
@@ -37,14 +33,11 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 - 🚀 Focused on building **real-world scalable projects**
 - 🌱 Continuously learning modern technologies
 
-</td>
-<td valign="top" width="40%" align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Pathak-27&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj-Pathak-27&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
 
 <br/>
 
@@ -244,7 +237,7 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;"><i>Data Analytics Job Simulation</i></td>
 <td align="center" style="border:3px solid #533483; color:#ffffff; padding:10px;">2025</td>
 <td style="border:3px solid #533483; color:#ffffff; padding:10px;">Deloitte</td>
-  <td style="border:3px solid #533483; color:#ffffff; padding:10px;"><a target="_blank" href="https://drive.google.com/file/d/1Dv7HtH4ubh5II6K2N_xT3xLGlNPmGAgy/view?usp=drive_link">View</a></td>
+<td style="border:3px solid #533483; color:#ffffff; padding:10px;"><a target="_blank" href="https://drive.google.com/file/d/1Dv7HtH4ubh5II6K2N_xT3xLGlNPmGAgy/view?usp=drive_link">View</a></td>
 </tr>
 </table>
 
@@ -287,10 +280,5 @@ Hi 👋 I'm **Rishiraj U. Pathak**, a Computer Engineering student passionate ab
 </p>
 
 <br/>
-
-
-<br/>
-
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:e94560,20:0f3460,60:16213e,100:1a1a2e&height=180&section=footer&animation=twinkling"/>-->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:e94560,20:0f3460,60:16213e,100:1a1a2e&height=180&section=footer&animation=twinkling&text=%E2%9C%A8%20Code.%20Build.%20Learn.%20Repeat.%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=55"/>
